@@ -1,0 +1,2 @@
+# Introduction-to-Scikit-Learn
+Machine Learning Modelling with Python and Scikit-Learn.       An end-to-end Scikit-Learn worfklow     Getting the data ready     Choosing the right maching learning estimator/aglorithm/model for your problem     Fitting your chosen machine learning model to data and using it to make a prediction     Evaluting a machine learning model     Improving predictions through experimentation (hyperparameter tuning)     Saving and loading a pretrained model     Putting it all together in a pipeline
